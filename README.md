@@ -3,3 +3,5 @@
 https://www.wannianliwang.com
 
 https://github.com/6tail/lunar-javascript
+
+感谢腾讯开发的大白熊八段锦Q版GIF
